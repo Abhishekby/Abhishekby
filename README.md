@@ -48,6 +48,4 @@
 
 <br />
 
-<a href="https://github.com/Abhishekby"><img alt="Abhishek's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=Abhishekby&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
