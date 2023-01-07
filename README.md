@@ -30,7 +30,6 @@
 <br />
 
 ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/abhishekby?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/abhishekby?tab=followers"><img align="right" src="https://img.shields.io/github/followers/abhishekby?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/abhishekby">  <img align="right" src="https://komarev.com/ghpvc/?username=abhisheby"></a>
-
 <p>
   <img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekby&langs_count=8&theme=react" />
